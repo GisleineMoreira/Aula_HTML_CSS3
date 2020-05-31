@@ -1,0 +1,47 @@
+body { background: rgba(129, 239, 245, 0.692);
+    margin-left: 80px;
+    margin-right: 150px;
+}
+nav p {
+    color: rgba(250, 128, 114, 0.733);
+    font-style: normal;
+    font-family: 'Bradley Hand ITC' ;
+    margin-left: 200px;
+    margin-right: 180px;
+    font-size: 50px
+}
+nav ul {
+    color: rgb(98, 12, 105) ;
+    font-family: 'tahoma';
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 60px;
+
+}
+header{
+    margin-top: 100px;
+}
+h1 {color: rgb(150, 20, 161);
+    font-family: 'chiller' ;
+    font-size: 60px;
+
+}
+h2{
+    font-family: 'Tahoma';
+    font-size: larger 18px;
+}
+p { font-size: 17px;
+font-family: 'consolas';}
+
+footer{
+    margin-bottom: 35px;
+}
+
+.img_padrao {
+    margin-bottom: 30px;
+    width: 300px;
+}
+.logo {
+    width: 30px;
+    margin-left: 10px;
+}
